@@ -1,0 +1,24 @@
+
+.root {
+-fx-background-color:rgb(16, 0, 67);
+}
+.button {
+-fx-background-color: rgba(69, 81, 255, 0.679);
+-fx-padding:5px 20px;
+-fx-margin-top:10px;
+-fx-font-size :10pt;
+-fx-text-fill:white;
+}
+.button: hover{
+-fx-background-color:rgb(97, 107, 253);
+}
+.intro{
+-fx-font-size :25px;
+-fx-padding:15px 0px;
+-fx-font-weight:bold;
+-fx-text-fill:white;
+}
+.item{
+-fx-font-size :15px;
+-fx-text-fill:white;
+}
